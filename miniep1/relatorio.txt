@@ -1,0 +1,24 @@
+/**********************************************************/
+/* MAC0219 - Computação Paralela e Distribuída - 2018/01  */
+/* Eugenio Augusto Jimenes                                */
+/* Nº USP 7118981                                         */
+/* MiniEP1 - Utilização das Memórias Caches               */
+/**********************************************************/
+
+Para demonstrar a diferença no uso e não uso de memória cache,
+foi executado em linguagem C uma programa que zera uma matriz
+quadrada com duas opções: uma percorrendo a matriz pelas linhas,
+outra pelas colunas. Como na linguagem C a matriz é armazenada
+pelas linhas, ou seja, as linhas da matriz são vetores de vetores,
+percorre-la por linhas será mais eficiente.
+
+Isso porque a escrita no cache é feita por blocos de memória e ao
+acessarmos as posições de memória da matriz, seja percorrendo-a
+por linha quanto por coluna, sempre teremos trechos inteiros das
+linhas da matriz copiadas da memória principal no cache.
+
+OBSERVAÇÔES
+ - O teste foi feito com uma matriz de tamanho 10000, como segue
+   a execução no Makefile
+ - Para calcular o tempo de execução percalço da matriz foi utilizado
+  a seguinte referência para o código: https://stackoverflow.com/a/27448980

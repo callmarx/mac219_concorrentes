@@ -1,0 +1,47 @@
+/**********************************************************/
+/* MAC0219 - Computação Paralela e Distribuída - 2018/01  */
+/* Eugenio Augusto Jimenes                                */
+/* Nº USP 7118981                                         */
+/* MiniDesafio1 - Branch prediction                       */
+/**********************************************************/
+
+Para demonstrar o Branch prediction de hardware foram executadas
+2 funções: "predictable" e "unpredictable". Em ambas há um loop
+'for' com um o bloco 'if-else' dentro para incrementar ou
+decrementar, respectivamente, a variavel 'x'.
+
+Na função "predictable" a condição do 'if' é o resto da divisão de
+'i' por 1 ser igual a zero, o que é verdadeiro em todos os casos,
+já na função "predictable" é o resto da divisão de 'i' por 3 ser
+igual a zero, o que não ocorre sempre.
+
+No teste executado com um milhão de interações para o loop 'for',
+definido na constante MAXLOOP, obtive os seguintes valores:
+
+1o. Execução:
+./teste 1
+Função previsivel executada em 2.28 milisegundos.
+./teste 2
+Função imprevisivel executada em 3.96 milisegundos.
+
+2o. Execução:
+./teste 1
+Função previsivel executada em 2.40 milisegundos.
+./teste 2
+Função imprevisivel executada em 4.11 milisegundos.
+
+3o. Execução:
+./teste 1
+Função previsivel executada em 3.32 milisegundos.
+./teste 2
+Função imprevisivel executada em 4.86 milisegundos.
+
+É possível notar uma média de aproveitamento de 40% na execução
+com o Branch prediction.
+
+OBSERVAÇÔES
+ - Na execução do compilado, foi utilizado o argumento 1 para execução
+ da função "predictable" e qualquer outro inteiro para execução da
+ função "unpredictable"
+ - Para calcular o tempo de execução no processador foi utilizado
+  a seguinte referência para o código: https://stackoverflow.com/a/27448980
