@@ -1,0 +1,480 @@
+---------------------
+Algorithm: bakery, Execution number: 1
+Elapsed time (in nanoseconds): 112276110
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 4718.011223
+Number of times that each thread accessed the CS:
+17159, 17154, 17152, 1429, 1429, 1429, 1429, 1429, 1429, 1429, 1429, 1428, 1428, 1428, 1428, 1428, 1428, 1428, 1428, 1428, 1428, 1428, 1428, 1428, 1428, 1428, 1428, 1428, 1428, 1428, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 2
+Elapsed time (in nanoseconds): 132188
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 1.401983
+Number of times that each thread accessed the CS:
+3006, 3004, 3003, 3003, 3002, 3002, 3001, 3001, 3000, 3001, 3001, 3001, 3000, 3000, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3001, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 3
+Elapsed time (in nanoseconds): 214037
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 3.842598
+Number of times that each thread accessed the CS:
+3014, 3012, 3011, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 3001, 2999, 2999, 3000, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 4
+Elapsed time (in nanoseconds): 170056924
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 3.027467
+Number of times that each thread accessed the CS:
+3011, 3006, 3010, 3005, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3003, 3002, 3000, 3000, 3000, 3000, 3000, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 3000, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 5
+Elapsed time (in nanoseconds): 139707
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 2.152260
+Number of times that each thread accessed the CS:
+3010, 3006, 3003, 3000, 3002, 3002, 3002, 3002, 3001, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 2999, 2999, 3000, 3000, 3000, 3000, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 6
+Elapsed time (in nanoseconds): 141712
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 15.226038
+Number of times that each thread accessed the CS:
+3054, 3044, 3041, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2996, 2995, 2995, 2996, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 7
+Elapsed time (in nanoseconds): 165419121
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 1.328742
+Number of times that each thread accessed the CS:
+3004, 3005, 3003, 3003, 3002, 3001, 3001, 3002, 3001, 3002, 3001, 3001, 3000, 3000, 3000, 3002, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3001, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 8
+Elapsed time (in nanoseconds): 195471
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 2.414999
+Number of times that each thread accessed the CS:
+3007, 3010, 3000, 3007, 3001, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3001, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 9
+Elapsed time (in nanoseconds): 116389
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 2.613852
+Number of times that each thread accessed the CS:
+3012, 3006, 3006, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3004, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3001, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 10
+Elapsed time (in nanoseconds): 129844
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 1.251222
+Number of times that each thread accessed the CS:
+3006, 3002, 3002, 3002, 3002, 3002, 3002, 3002, 3002, 3001, 3001, 3001, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3001, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 11
+Elapsed time (in nanoseconds): 196237
+Average of accesses: 3000.100000
+Standard Deviation of accesses: 7683.362022
+Number of times that each thread accessed the CS:
+23657, 23650, 23649, 19047, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 12
+Elapsed time (in nanoseconds): 221719180
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 3.710196
+Number of times that each thread accessed the CS:
+3013, 3012, 3011, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 3000, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 13
+Elapsed time (in nanoseconds): 125827
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 3.859908
+Number of times that each thread accessed the CS:
+3014, 3012, 3011, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 3001, 3001, 3001, 2999, 2999, 3000, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 14
+Elapsed time (in nanoseconds): 142865
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 1.196755
+Number of times that each thread accessed the CS:
+3003, 3005, 3003, 3003, 3002, 3002, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 15
+Elapsed time (in nanoseconds): 184950076
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 3.928387
+Number of times that each thread accessed the CS:
+3013, 3013, 3012, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 3000, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 16
+Elapsed time (in nanoseconds): 118122
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 3.894298
+Number of times that each thread accessed the CS:
+3013, 3015, 3009, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 3000, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 17
+Elapsed time (in nanoseconds): 147251
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 2.167692
+Number of times that each thread accessed the CS:
+3009, 3004, 3005, 3006, 3003, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3001, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 18
+Elapsed time (in nanoseconds): 129049
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 1.538036
+Number of times that each thread accessed the CS:
+3008, 3003, 3003, 3000, 3000, 3000, 3002, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 19
+Elapsed time (in nanoseconds): 183599360
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 1.378002
+Number of times that each thread accessed the CS:
+3003, 3003, 3007, 3002, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3001, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 20
+Elapsed time (in nanoseconds): 185778
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 4.159193
+Number of times that each thread accessed the CS:
+3023, 3002, 3002, 3001, 3001, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 2999, 2999, 2999, 2999, 3000, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 21
+Elapsed time (in nanoseconds): 141875
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 2.869185
+Number of times that each thread accessed the CS:
+3016, 3002, 3002, 3002, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 22
+Elapsed time (in nanoseconds): 256676725
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 1.015983
+Number of times that each thread accessed the CS:
+3003, 3004, 3003, 3002, 3002, 3002, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3001, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 23
+Elapsed time (in nanoseconds): 608465
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 1.816284
+Number of times that each thread accessed the CS:
+3007, 3004, 3006, 3001, 3004, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3002, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3001, 3000, 3000, 3000, 3000, 3001, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 24
+Elapsed time (in nanoseconds): 199296
+Average of accesses: 3000.100000
+Standard Deviation of accesses: 7683.226138
+Number of times that each thread accessed the CS:
+23872, 23793, 23260, 19078, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 25
+Elapsed time (in nanoseconds): 291345529
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 1.870532
+Number of times that each thread accessed the CS:
+3009, 3004, 3003, 3000, 3000, 3003, 3003, 3000, 3000, 3000, 3000, 3000, 3002, 3001, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3001, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 26
+Elapsed time (in nanoseconds): 253311
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 4.578816
+Number of times that each thread accessed the CS:
+3020, 3012, 3010, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 2999, 3000, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 27
+Elapsed time (in nanoseconds): 141859
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 1.760366
+Number of times that each thread accessed the CS:
+3005, 3007, 3004, 3003, 3003, 3003, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3001, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 28
+Elapsed time (in nanoseconds): 154582181
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 1.168570
+Number of times that each thread accessed the CS:
+3006, 3002, 3002, 3002, 3002, 3002, 3001, 3000, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3001, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 29
+Elapsed time (in nanoseconds): 124075
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 2.152260
+Number of times that each thread accessed the CS:
+3002, 3012, 3002, 3001, 3001, 3001, 3002, 3001, 3001, 3001, 3001, 3001, 3001, 3001, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3001, 
+---------------------
+---------------------
+Algorithm: bakery, Execution number: 30
+Elapsed time (in nanoseconds): 164643
+Average of accesses: 3000.066667
+Standard Deviation of accesses: 9000.200035
+Number of times that each thread accessed the CS:
+30004, 30000, 29998, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 1
+Elapsed time (in nanoseconds): 356233
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 9561.560139
+Number of times that each thread accessed the CS:
+1244, 844, 1206, 1911, 29, 20, 51920, 34, 19, 4080, 164, 3616, 29, 11, 24, 32, 15967, 133, 20, 29, 32, 3726, 25, 12, 859, 29, 513, 12, 307, 3182, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 2
+Elapsed time (in nanoseconds): 145616
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 4851.303409
+Number of times that each thread accessed the CS:
+2935, 21106, 20324, 3554, 3593, 3531, 3062, 3156, 2949, 899, 1195, 1001, 1102, 818, 887, 1073, 1049, 1099, 838, 2262, 1020, 769, 1072, 753, 1090, 4176, 1017, 1130, 1653, 916, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 3
+Elapsed time (in nanoseconds): 126018589
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 5081.896939
+Number of times that each thread accessed the CS:
+2858, 22272, 21324, 3005, 3164, 3339, 2577, 2937, 2626, 2339, 1136, 1295, 1041, 1159, 1072, 1210, 1381, 977, 1333, 1054, 1058, 1057, 1442, 1074, 1198, 1156, 1231, 1089, 1150, 1475, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 4
+Elapsed time (in nanoseconds): 198363
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 3985.429968
+Number of times that each thread accessed the CS:
+3084, 1535, 24037, 2288, 2803, 2692, 2635, 1334, 2877, 2609, 2880, 1531, 1449, 1484, 1594, 1459, 3009, 3366, 1483, 1449, 1445, 1480, 3242, 3523, 1480, 3338, 3361, 1556, 1549, 3457, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 5
+Elapsed time (in nanoseconds): 114536
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 5440.008545
+Number of times that each thread accessed the CS:
+1172, 1321, 22826, 23635, 1125, 1146, 1099, 1254, 2074, 1216, 940, 1067, 2323, 2392, 1096, 1038, 1067, 1266, 1292, 1180, 1142, 908, 1188, 1218, 2426, 2729, 2343, 2528, 2370, 2648, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 6
+Elapsed time (in nanoseconds): 124586
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 8083.512654
+Number of times that each thread accessed the CS:
+583, 446, 510, 9, 15, 824, 29339, 1543, 33904, 4, 4176, 1572, 14, 21, 18, 8, 14, 4, 4, 3261, 9, 27, 24, 9, 6, 22, 13, 13631, 2, 17, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 7
+Elapsed time (in nanoseconds): 349449
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 6306.361204
+Number of times that each thread accessed the CS:
+1029, 1021, 867, 32, 6439, 15, 7942, 15, 18, 20154, 18, 10, 13919, 6535, 12, 16, 11, 28, 10, 390, 23, 15, 17, 16, 22, 26467, 19, 29, 2917, 2023, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 8
+Elapsed time (in nanoseconds): 119849
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 6044.015346
+Number of times that each thread accessed the CS:
+1201, 1196, 756, 8, 2097, 340, 801, 3903, 26, 14, 33, 5021, 18, 149, 23, 20, 29164, 19, 18, 7604, 19, 13931, 16, 1474, 3560, 5590, 12980, 17, 10, 21, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 9
+Elapsed time (in nanoseconds): 149471
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 9780.329723
+Number of times that each thread accessed the CS:
+498, 2068, 9466, 400, 578, 487, 421, 404, 455, 507, 367, 497, 460, 507, 280, 1739, 1649, 1839, 2026, 1996, 1917, 437, 562, 368, 456, 402, 54893, 362, 1990, 1998, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 10
+Elapsed time (in nanoseconds): 216047
+Average of accesses: 3000.100000
+Standard Deviation of accesses: 8383.275050
+Number of times that each thread accessed the CS:
+16304, 34936, 10992, 27771, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 11
+Elapsed time (in nanoseconds): 83687580
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 5132.233812
+Number of times that each thread accessed the CS:
+20824, 21874, 4459, 819, 847, 1381, 1001, 1207, 920, 811, 967, 1482, 1193, 950, 1059, 772, 714, 4397, 4368, 4591, 759, 796, 1043, 6660, 1891, 968, 852, 1055, 677, 692, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 12
+Elapsed time (in nanoseconds): 113532
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 3990.682093
+Number of times that each thread accessed the CS:
+3775, 21106, 8402, 3709, 3924, 3713, 3618, 8994, 765, 809, 758, 1063, 752, 1294, 853, 2099, 2053, 842, 4260, 814, 919, 966, 5690, 987, 1295, 1001, 826, 2069, 939, 1734, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 13
+Elapsed time (in nanoseconds): 113080
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 4027.004068
+Number of times that each thread accessed the CS:
+688, 17075, 16575, 1087, 868, 2583, 852, 871, 1080, 1372, 882, 881, 1617, 692, 856, 1386, 822, 961, 819, 4984, 3748, 867, 701, 4746, 4743, 1320, 1882, 5795, 4350, 4926, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 14
+Elapsed time (in nanoseconds): 328589
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 5249.961666
+Number of times that each thread accessed the CS:
+1501, 22474, 22798, 1800, 1558, 1862, 1340, 1635, 1711, 1253, 1766, 1550, 1346, 1675, 1523, 1486, 1509, 1657, 1561, 1782, 1466, 1732, 1759, 1686, 1497, 1789, 1608, 1742, 1394, 1569, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 15
+Elapsed time (in nanoseconds): 110220
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 9972.331758
+Number of times that each thread accessed the CS:
+114, 6, 105, 206, 5, 12625, 3, 1, 4, 2, 2, 1, 2, 4, 4, 7, 1, 2, 6, 1, 8, 2, 3, 6, 46742, 3, 1, 4, 30155, 4, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 16
+Elapsed time (in nanoseconds): 68187822
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 5269.095492
+Number of times that each thread accessed the CS:
+22150, 23034, 2404, 1166, 1188, 2458, 2643, 2473, 2287, 2636, 2356, 1195, 1147, 2616, 2203, 1241, 997, 1291, 1017, 1026, 1172, 1312, 1086, 1181, 1425, 1169, 1244, 1420, 1219, 1273, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 17
+Elapsed time (in nanoseconds): 343158
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 6703.074993
+Number of times that each thread accessed the CS:
+362, 474, 352, 8, 5, 8701, 7613, 17488, 8, 26158, 4, 8, 8, 21708, 5, 4, 1847, 3, 3, 6, 7, 4, 917, 4, 9, 6, 8, 4, 4290, 15, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 18
+Elapsed time (in nanoseconds): 151949
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 4674.656305
+Number of times that each thread accessed the CS:
+19707, 2099, 21205, 1370, 1731, 1306, 1834, 1952, 1859, 2131, 1805, 1999, 2121, 1839, 2028, 1971, 1843, 1667, 1672, 1894, 1636, 1505, 1480, 1858, 1740, 1653, 1211, 1615, 1761, 1537, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 19
+Elapsed time (in nanoseconds): 115052
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 4270.290369
+Number of times that each thread accessed the CS:
+2073, 6824, 24556, 2215, 1819, 1995, 1964, 2102, 2080, 1946, 2008, 2133, 2267, 6420, 6676, 1557, 1619, 1314, 1675, 1445, 1566, 1406, 1416, 1644, 1624, 1421, 1642, 1594, 1552, 1476, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 20
+Elapsed time (in nanoseconds): 315026
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 9670.462838
+Number of times that each thread accessed the CS:
+983, 807, 957, 26, 22, 33, 2329, 269, 28, 27, 53327, 4, 13, 12, 16, 18, 295, 2860, 607, 12170, 127, 1169, 1774, 6511, 4372, 1047, 165, 14, 25, 22, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 21
+Elapsed time (in nanoseconds): 113935
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 3696.506571
+Number of times that each thread accessed the CS:
+605, 13235, 14313, 1574, 3647, 1140, 459, 1196, 790, 927, 861, 939, 611, 1204, 983, 489, 4138, 368, 1047, 608, 727, 1440, 3557, 9941, 5484, 894, 762, 6940, 5943, 5207, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 22
+Elapsed time (in nanoseconds): 349998
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 15227.571353
+Number of times that each thread accessed the CS:
+98, 43, 22, 2, 1, 1, 1, 1, 1, 4963, 2, 1, 1, 1, 1, 1, 1, 4, 7, 1, 84864, 1, 1, 1, 3, 1, 2, 1, 1, 1, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 23
+Elapsed time (in nanoseconds): 291730
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 2304.792073
+Number of times that each thread accessed the CS:
+7264, 6774, 3165, 2636, 5406, 653, 947, 2753, 3738, 1359, 407, 1668, 1882, 518, 3237, 844, 6233, 6573, 1350, 1037, 2727, 5146, 6930, 906, 7077, 916, 1667, 1203, 691, 4322, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 24
+Elapsed time (in nanoseconds): 107590
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 16106.872271
+Number of times that each thread accessed the CS:
+58, 143, 45, 2, 1, 1, 1, 1, 4, 4, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 3, 3, 1, 1, 1, 1, 3, 2, 2, 89739, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 25
+Elapsed time (in nanoseconds): 284429
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 8216.567241
+Number of times that each thread accessed the CS:
+88, 102, 143, 5, 3, 3, 1, 5, 2, 1, 2, 23555, 31824, 2956, 1, 1, 1, 4, 1, 1, 2, 1, 1, 1, 1, 2, 4967, 26353, 1, 1, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 26
+Elapsed time (in nanoseconds): 109810
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 16079.416267
+Number of times that each thread accessed the CS:
+188, 127, 62, 1, 4, 1, 3, 3, 1, 11, 1, 1, 1, 1, 4, 3, 2, 4, 89591, 4, 1, 1, 1, 2, 1, 1, 2, 1, 3, 3, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 27
+Elapsed time (in nanoseconds): 108027
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 5399.515747
+Number of times that each thread accessed the CS:
+991, 959, 969, 156, 323, 21, 23, 1318, 17, 33, 13, 20, 16310, 11335, 12721, 10009, 5253, 17, 7183, 10, 8, 2239, 11, 17, 29, 12, 18, 19985, 11, 18, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 28
+Elapsed time (in nanoseconds): 262839167
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 5078.260296
+Number of times that each thread accessed the CS:
+22004, 1308, 2508, 21673, 1343, 1353, 1184, 1482, 1147, 1037, 1213, 1257, 1090, 1107, 1131, 1073, 972, 1206, 1128, 2508, 2706, 2898, 2536, 2859, 2650, 2523, 2520, 1324, 1250, 1039, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 29
+Elapsed time (in nanoseconds): 178770
+Average of accesses: 3000.966667
+Standard Deviation of accesses: 16117.446277
+Number of times that each thread accessed the CS:
+49, 106, 29, 1, 4, 1, 2, 1, 1, 2, 1, 9, 1, 1, 1, 1, 1, 3, 1, 1, 4, 89796, 3, 1, 1, 1, 2, 3, 1, 1, 
+---------------------
+---------------------
+Algorithm: gate, Execution number: 30
+Elapsed time (in nanoseconds): 121909
+Average of accesses: 3000.066667
+Standard Deviation of accesses: 14034.937176
+Number of times that each thread accessed the CS:
+5871, 5969, 78162, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+---------------------

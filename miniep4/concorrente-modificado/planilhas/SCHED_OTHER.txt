@@ -1,0 +1,125 @@
+SCHED_OTHER-10.3000000:
+bakery average: 3000.899999999999
+bakery deviation: 809.9838307333332
+gate average: 3000.7200000000007
+gate deviation: 4349.8015152
+SCHED_OTHER-20.3000000:
+bakery average: 1500.9499999999996
+bakery deviation: 443.74774253333334
+gate average: 1500.575
+gate deviation: 2977.066352766667
+SCHED_OTHER-30.3000000:
+bakery average: 1000.9666670000004
+bakery deviation: 342.7355120333333
+gate average: 1000.5588889333334
+gate deviation: 1974.3380942666672
+SCHED_OTHER-40.3000000:
+bakery average: 750.9749999999998
+bakery deviation: 312.88049793333334
+gate average: 750.4483333333333
+gate deviation: 1740.2680242333338
+SCHED_OTHER-50.3000000:
+bakery average: 600.9799999999997
+bakery deviation: 250.78526633333325
+gate average: 600.3193333333332
+gate deviation: 1798.2928200666668
+SCHED_OTHER-10.6000000:
+bakery average: 6000.899999999997
+bakery deviation: 677.5710858666667
+gate average: 6000.859999999997
+gate deviation: 6262.843573866666
+SCHED_OTHER-20.6000000:
+bakery average: 3000.9499999999985
+bakery deviation: 380.7488040999999
+gate average: 3000.921666666665
+gate deviation: 3161.4594951000004
+SCHED_OTHER-30.6000000:
+bakery average: 2000.9666670000004
+bakery deviation: 324.39594166666666
+gate average: 2000.808889066667
+gate deviation: 2970.4914634666666
+SCHED_OTHER-40.6000000:
+bakery average: 1500.9749999999992
+bakery deviation: 321.46250556666666
+gate average: 1500.7699999999995
+gate deviation: 2688.9831524666665
+SCHED_OTHER-50.6000000:
+bakery average: 1200.98
+bakery deviation: 272.1232382333334
+gate average: 1200.8033333333333
+gate deviation: 2340.8606381333334
+SCHED_OTHER-10.9000000:
+bakery average: 9000.899999999996
+bakery deviation: 735.0284082666668
+gate average: 9000.899999999996
+gate deviation: 7396.278699566666
+SCHED_OTHER-20.9000000:
+bakery average: 4500.949999999998
+bakery deviation: 421.9197889666667
+gate average: 4500.934999999999
+gate deviation: 4151.770022466666
+SCHED_OTHER-30.9000000:
+bakery average: 3000.966667
+bakery deviation: 321.82928393333333
+gate average: 3000.937778066667
+gate deviation: 3452.9039314000006
+SCHED_OTHER-40.9000000:
+bakery average: 2250.974999999999
+bakery deviation: 263.1645879
+gate average: 2250.8949999999995
+gate deviation: 3209.2747620333334
+SCHED_OTHER-50.9000000:
+bakery average: 1800.980000000001
+bakery deviation: 240.30265699999998
+gate average: 1800.9026666666675
+gate deviation: 2667.8910562999995
+SCHED_OTHER-10.12000000:
+bakery average: 12000.900000000003
+bakery deviation: 558.4307717333335
+gate average: 12000.900000000003
+gate deviation: 8059.848958100002
+SCHED_OTHER-20.12000000:
+bakery average: 6000.950000000002
+bakery deviation: 323.1802378000001
+gate average: 6000.950000000002
+gate deviation: 4770.912314200001
+SCHED_OTHER-30.12000000:
+bakery average: 4000.966667
+bakery deviation: 372.34305146666674
+gate average: 4000.9288892
+gate deviation: 4256.2393006
+SCHED_OTHER-40.12000000:
+bakery average: 3000.975000000001
+bakery deviation: 363.0771728
+gate average: 3000.8425
+gate deviation: 4091.3933990999994
+SCHED_OTHER-50.12000000:
+bakery average: 2400.9800000000014
+bakery deviation: 228.3588779
+gate average: 2400.9413333333346
+gate deviation: 2801.6804565666675
+SCHED_OTHER-10.15000000:
+bakery average: 15000.900000000007
+bakery deviation: 585.1926738999999
+gate average: 15000.896666666673
+gate deviation: 8683.8233672
+SCHED_OTHER-20.15000000:
+bakery average: 7500.9500000000035
+bakery deviation: 470.6137872999999
+gate average: 7500.9500000000035
+gate deviation: 5032.975260666665
+SCHED_OTHER-30.15000000:
+bakery average: 5000.966667
+bakery deviation: 379.8905918333334
+gate average: 5000.962222533333
+gate deviation: 4261.600226533332
+SCHED_OTHER-40.15000000:
+bakery average: 3750.9750000000017
+bakery deviation: 249.3274626666666
+gate average: 3750.945000000002
+gate deviation: 3804.941490433333
+SCHED_OTHER-50.15000000:
+bakery average: 3000.98
+bakery deviation: 215.32806513333338
+gate average: 3000.96
+gate deviation: 3637.6969317999997
