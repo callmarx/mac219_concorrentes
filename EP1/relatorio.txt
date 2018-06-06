@@ -1,0 +1,60 @@
+[callmarx@archlindo EP1]$ ./main s matrix_files/A-200x200.txt matrix_files/B-200x200.txt matrix_files/C-200x200.txt
+Arquivo da Matriz A: matrix_files/A-200x200.txt
+Arquivo da Matriz B: matrix_files/B-200x200.txt
+Arquivo destino da Matriz C: matrix_files/C-200x200.txt
+Multiplicação sequencial (loops simples): Executado em 58.515999 milesegundos
+[callmarx@archlindo EP1]$ ./main o matrix_files/A-200x200.txt matrix_files/B-200x200.txt matrix_files/C-200x200.txt
+Arquivo da Matriz A: matrix_files/A-200x200.txt
+Arquivo da Matriz B: matrix_files/B-200x200.txt
+Arquivo destino da Matriz C: matrix_files/C-200x200.txt
+Multiplicação com OpenMP: Executado em 47.465027 milesegundos
+[callmarx@archlindo EP1]$ ./main p matrix_files/A-200x200.txt matrix_files/B-200x200.txt matrix_files/C-200x200.txt
+Arquivo da Matriz A: matrix_files/A-200x200.txt
+Arquivo da Matriz B: matrix_files/B-200x200.txt
+Arquivo destino da Matriz C: matrix_files/C-200x200.txt
+Multiplicação com Pthreads: Executado em 24.875977 milesegundos
+[callmarx@archlindo EP1]$ ./main s matrix_files/A-400x400.txt matrix_files/B-400x400.txt matrix_files/C-400x400.txt
+Arquivo da Matriz A: matrix_files/A-400x400.txt
+Arquivo da Matriz B: matrix_files/B-400x400.txt
+Arquivo destino da Matriz C: matrix_files/C-400x400.txt
+Multiplicação sequencial (loops simples): Executado em 511.006012 milesegundos
+[callmarx@archlindo EP1]$ ./main o matrix_files/A-400x400.txt matrix_files/B-400x400.txt matrix_files/C-400x400.txt
+Arquivo da Matriz A: matrix_files/A-400x400.txt
+Arquivo da Matriz B: matrix_files/B-400x400.txt
+Arquivo destino da Matriz C: matrix_files/C-400x400.txt
+Multiplicação com OpenMP: Executado em 167.117004 milesegundos
+[callmarx@archlindo EP1]$ ./main p matrix_files/A-400x400.txt matrix_files/B-400x400.txt matrix_files/C-400x400.txt
+Arquivo da Matriz A: matrix_files/A-400x400.txt
+Arquivo da Matriz B: matrix_files/B-400x400.txt
+Arquivo destino da Matriz C: matrix_files/C-400x400.txt
+Multiplicação com Pthreads: Executado em 158.932999 milesegundos
+[callmarx@archlindo EP1]$ ./main s matrix_files/A-600x600.txt matrix_files/B-600x600.txt matrix_files/C-600x600.txt
+Arquivo da Matriz A: matrix_files/A-600x600.txt
+Arquivo da Matriz B: matrix_files/B-600x600.txt
+Arquivo destino da Matriz C: matrix_files/C-600x600.txt
+Multiplicação sequencial (loops simples): Executado em 2014.569946 milesegundos
+[callmarx@archlindo EP1]$ ./main o matrix_files/A-600x600.txt matrix_files/B-600x600.txt matrix_files/C-600x600.txt
+Arquivo da Matriz A: matrix_files/A-600x600.txt
+Arquivo da Matriz B: matrix_files/B-600x600.txt
+Arquivo destino da Matriz C: matrix_files/C-600x600.txt
+Multiplicação com OpenMP: Executado em 556.231995 milesegundos
+[callmarx@archlindo EP1]$ ./main p matrix_files/A-600x600.txt matrix_files/B-600x600.txt matrix_files/C-600x600.txt
+Arquivo da Matriz A: matrix_files/A-600x600.txt
+Arquivo da Matriz B: matrix_files/B-600x600.txt
+Arquivo destino da Matriz C: matrix_files/C-600x600.txt
+Multiplicação com Pthreads: Executado em 545.580017 milesegundos
+[callmarx@archlindo EP1]$ ./main s matrix_files/A-800x800.txt matrix_files/B-800x800.txt matrix_files/C-800x800.txt
+Arquivo da Matriz A: matrix_files/A-800x800.txt
+Arquivo da Matriz B: matrix_files/B-800x800.txt
+Arquivo destino da Matriz C: matrix_files/C-800x800.txt
+Multiplicação sequencial (loops simples): Executado em 5864.561035 milesegundos
+[callmarx@archlindo EP1]$ ./main o matrix_files/A-800x800.txt matrix_files/B-800x800.txt matrix_files/C-800x800.txt
+Arquivo da Matriz A: matrix_files/A-800x800.txt
+Arquivo da Matriz B: matrix_files/B-800x800.txt
+Arquivo destino da Matriz C: matrix_files/C-800x800.txt
+Multiplicação com OpenMP: Executado em 1479.864014 milesegundos
+[callmarx@archlindo EP1]$ ./main p matrix_files/A-800x800.txt matrix_files/B-800x800.txt matrix_files/C-800x800.txt
+Arquivo da Matriz A: matrix_files/A-800x800.txt
+Arquivo da Matriz B: matrix_files/B-800x800.txt
+Arquivo destino da Matriz C: matrix_files/C-800x800.txt
+Multiplicação com Pthreads: Executado em 1460.870972 milesegundos
